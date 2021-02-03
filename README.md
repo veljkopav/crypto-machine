@@ -1,2 +1,2 @@
 # crypto-machine
-Verilog crypto machine
+Simple Verilog crypto machine
